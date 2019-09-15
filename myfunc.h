@@ -1,1 +1,3 @@
-string func();
+#include <string>
+
+std::string func();
