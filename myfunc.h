@@ -1,1 +1,4 @@
-func();
+std::string func()
+{
+	return "hello";
+}
