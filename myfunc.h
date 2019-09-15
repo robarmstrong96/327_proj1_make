@@ -1,1 +1,1 @@
-std::string func();
+func();
